@@ -1,4 +1,3 @@
 # VB.NetChickenAdoboRecipeCalculator
-Chicken Adobo (Filipino Dish) recipe calculator (bachelor version).  
-Everytime I bought chicken, I never knew how much ingredients to buy.  
-This will tell you how much sweet onion, garlic cloves, soy sauce, and vinegar to use to make your special dish.
+Enter pounds and press Calculate.
+Will display how much sweet onion, garlic cloves, soy sauce, and vinegar you will need to make chicken adobo.
